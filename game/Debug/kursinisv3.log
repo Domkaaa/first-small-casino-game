@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Domkaaa\source\repos\kursinisv3\skaicius.h(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  kursinisv3.vcxproj -> C:\Users\Domkaaa\source\repos\kursinisv3\Debug\kursinisv3.exe
